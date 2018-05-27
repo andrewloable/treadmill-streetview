@@ -4,7 +4,7 @@ This is the arduino component of the project.
 The arduino device is connected to the treadmill's tachometer signal to detect its pulses.
 The pulses are then converted into loops, where 1 loop is the complete cycle of the treadmill belt.
 
-### Prerequisites
+## Prerequisites
 
 You need to install the Arduino IDE to be able to upload the code.
 It is available here: https://www.arduino.cc/en/Main/Software
